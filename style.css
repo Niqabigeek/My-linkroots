@@ -35,13 +35,14 @@ body{
 .username{
     color: var(--text);
     font-size: 14px;
-    margin: 6px;
+    margin-top: 6px;
     letter-spacing: 1px;
 }
 
 .bio{
     color: var(--text);
     font-size: 19px ;
+    margin: 1rem;
 }
 
 #image{
@@ -106,7 +107,7 @@ i{
     background-color: var(--btn-4);
     color: var(--text-4 );
     border-radius: 4px;
-    padding: 10px 146px;
+    padding: 10px 139px;
     margin-top: 1rem;
     border: none;
     cursor: pointer;
@@ -137,5 +138,5 @@ i{
 
 footer{
     color: var(--text);
-    margin-top: 4rem;
+    margin-top: 3rem;
 }
