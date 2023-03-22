@@ -1,4 +1,5 @@
 # My-linkroots
 This repo is a simple one-page website that allows me to showcase a list of links to my social media profiles, websites, or other online content.
 
-# Live Link: https://niqabigeek.github.io/My-linkroots/ 
+# Live Link
+https://niqabigeek.github.io/My-linkroots/ 
