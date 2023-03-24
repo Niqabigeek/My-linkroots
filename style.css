@@ -147,12 +147,13 @@ footer {
 
 /* MOBILE RESPONSIVENESS */
 
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .container {
         margin-top: 2rem;
     }
     
     .username{
+        text-align: center;
         font-weight: 600;
     }
     .bio {
